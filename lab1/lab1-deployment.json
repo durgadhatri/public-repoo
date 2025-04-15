@@ -2,6 +2,7 @@
   {
     "Name": "Lab 1 - Introduction to Linux",
     "Language": "English",
+    "BaseURL": "https://github.com/durgadhatri/public-repoo",
     "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/durgadhatri/public-repoo/refs/heads/main/lab1/lab1-guide.md",
